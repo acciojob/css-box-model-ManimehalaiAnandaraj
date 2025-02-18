@@ -11,11 +11,13 @@
 }
 #tex{
 	width:200px;
-	font-size:15px;
+	font-size:10px;
 	padding:50px;
 	margin-inline:40;
 	text-align:center;
 	background-color:lightblue;
 	margin:auto;
+	word-spacing:1px;
+	text-decoration-style:black;
 	
 }
