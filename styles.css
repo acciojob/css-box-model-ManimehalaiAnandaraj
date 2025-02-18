@@ -2,11 +2,10 @@
 /* Your CSS Code here. */
 #box{
 	width:300px;
-
 	background-color:lightblue;
 	margin:20px;
 	border:15px solid blue;
-	padding:50px;
+	padding-inline:50px;
 	
 }
 #tex{
@@ -17,7 +16,5 @@
 	text-align:center;
 	background-color:lightblue;
 	margin:auto;
-	word-spacing:1px;
-	text-decoration-style:black;
-	
+	word-spacing:1px;	
 }
